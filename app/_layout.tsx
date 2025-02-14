@@ -14,6 +14,18 @@ export default function RootLayout(){
                     name="euro"
                     options={{title: 'Euro'}}
                 />
+                <Drawer.Screen 
+                    name="bitcoin"
+                    options={{title: 'Bitcoin'}}
+                />
+                <Drawer.Screen 
+                    name="ethereum"
+                    options={{title: 'Ethereum'}}
+                />
+                <Drawer.Screen 
+                    name="libra"
+                    options={{title: 'Libra Esterlina'}}
+                />
             </Drawer>
         </GestureHandlerRootView>
 
