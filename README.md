@@ -18,7 +18,6 @@ Este projeto foi desenvolvido como parte do curso de Desenvolvimento de Aplicati
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Capturas de Tela](#capturas-de-tela)
 - [Contribuição](#contribuição)
-- [Licença](#licença)
 - [Contato](#contato)
 
 ## Funcionalidades
@@ -77,7 +76,7 @@ Ao abrir o aplicativo, você verá a lista de moedas e criptomoedas com suas res
 
 - [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [Axios](https://axios-http.com/) para requisições HTTP
+- [AwesomeAPI](https://docs.awesomeapi.com.br/api-de-moedas) para requisições HTTP
 - [Styled Components](https://styled-components.com/) para estilização
 
 ## Capturas de Tela
