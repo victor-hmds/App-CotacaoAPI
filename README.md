@@ -83,15 +83,15 @@ Ao abrir o aplicativo, você verá a lista de moedas e criptomoedas com suas res
 ## Capturas de Tela
 
 <p align="center">
-  <img assets="app-cotacao1.jpeg" alt="Menu" width="30%" />
-  <img assets="app-cotacao2.jpeg" alt="Tela sobre a cotação do Bitcoin" width="30%" />
-  <img assets="app-cotacao3.jpeg" alt="Tela sobre a cotação do Dólar" width="30%" />
+  <img src="https://github.com/victor-hmds/App-CotacaoAPI/blob/main/assets/app-cotacao1.jpeg" width="30%" />
+  <img src="https://github.com/victor-hmds/App-CotacaoAPI/blob/main/assets/app-cotacao2.jpeg" width="30%" />
+  <img src="https://github.com/victor-hmds/App-CotacaoAPI/blob/main/assets/app-cotacao3.jpeg" width="30%" />
 </p>
 
 <p align="center">
-  <img assets="app-cotacao4.jpeg" alt="Tela sobre a cotação do Euro" width="30%" />
-  <img assets="app-cotacao5.jpeg" alt="Tela sobre a cotação do Ethereum" width="30%" />
-  <img assets="app-cotacao6.jpeg" alt="Tela sobre a cotação da Libra Esterlina" width="30%" />
+  <img src="https://github.com/victor-hmds/App-CotacaoAPI/blob/main/assets/app-cotacao4.jpeg" width="30%" />
+  <img src="https://github.com/victor-hmds/App-CotacaoAPI/blob/main/assets/app-cotacao5.jpeg" width="30%" />
+  <img src="https://github.com/victor-hmds/App-CotacaoAPI/blob/main/assets/app-cotacao6.jpeg" width="30%" />
 </p>
 
 ## Contribuição
