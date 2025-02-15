@@ -13,8 +13,6 @@ Este projeto foi desenvolvido como parte do curso de Desenvolvimento de Aplicati
 ## Índice
 
 - [Funcionalidades](#funcionalidades)
-- [Instalação](#instalação)
-- [Uso](#uso)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Capturas de Tela](#capturas-de-tela)
 - [Contribuição](#contribuição)
@@ -25,52 +23,6 @@ Este projeto foi desenvolvido como parte do curso de Desenvolvimento de Aplicati
 - Exibe cotações em tempo real das moedas e criptomoedas listadas.
 - Interface amigável e intuitiva para fácil navegação.
 - Atualizações automáticas das taxas de câmbio.
-
-## Instalação
-
-Para executar este projeto localmente, siga os passos abaixo:
-
-1. **Clone o repositório:**
-
-   ```bash
-   git clone https://github.com/victor-hmds/App-CotacaoAPI.git
-   ```
-
-2. **Navegue até o diretório do projeto:**
-
-   ```bash
-   cd App-CotacaoAPI
-   ```
-
-3. **Instale as dependências:**
-
-   ```bash
-   npm install
-   ```
-
-   ou
-
-   ```bash
-   yarn install
-   ```
-
-4. **Execute o aplicativo:**
-
-   Para dispositivos Android:
-
-   ```bash
-   npx react-native run-android
-   ```
-
-   Para dispositivos iOS:
-
-   ```bash
-   npx react-native run-ios
-   ```
-
-## Uso
-
-Ao abrir o aplicativo, você verá a lista de moedas e criptomoedas com suas respectivas cotações em relação ao Real. As taxas são atualizadas automaticamente, garantindo que você sempre tenha acesso aos valores mais recentes.
 
 ## Tecnologias Utilizadas
 
